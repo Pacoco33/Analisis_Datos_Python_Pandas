@@ -10,3 +10,12 @@ m5.xlarge - 16 GiB de memoria
 
 Se ha creado también un servicio de almacenamiento (S3) en el cual hemos subido un archivo csv (base de datos de gran tamaño)
 la cual hemos llamado después.
+
+En PySpark:
+
+- Mostrar algunos datos.
+- Mostrar el esquema de la base.
+- Mostrar nulos.
+- Limpiar la base de nulos.
+- Selects.
+- Filtrar.
