@@ -5,6 +5,7 @@ Para la realización de esta prueba, hemos tenido que crear un cluster. Este clu
 de Amazon Web Service, Amazon EMR. 
 
 --- Características EMR ---
+
 Primery, Code y Task
 m5.xlarge - 16 GiB de memoria
 
